@@ -12,7 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![output](man1.jpg)
+![output](man2.jpg)
+![output](man3.jpg)
 
 
 ## Result:
